@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="map_align" name="map_align" type="map_align" output="screen"/>
+</launch>
